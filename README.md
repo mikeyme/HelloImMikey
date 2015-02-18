@@ -1,4 +1,4 @@
 HelloImMikey
 ============
 
-Hello There! =)
+Hi there! :-)
